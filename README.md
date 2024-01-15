@@ -1,0 +1,1 @@
+Hi everyone I am the software captain of "Team Sirius" and  this is a private repository for our FRC team. We are going upload the codes that we wrote so that we can use all the time without any dificullty
