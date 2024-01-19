@@ -33,7 +33,7 @@ public class Robot extends TimedRobot {
   public void teleopInit() {}
   @Override
   public void teleopPeriodic() {
-    drive.arcadeDrive(-controller.getLeftY(), controller.getLeftX());
+    drive.arcadeDrive(-controller.getLeftY(), controller.getRightX());
   }
   @Override
   public void disabledInit() {}
